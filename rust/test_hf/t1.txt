@@ -1,0 +1,1 @@
+cargo add --git https://github.com/huggingface/candle.git candle-core --features "cuda"
