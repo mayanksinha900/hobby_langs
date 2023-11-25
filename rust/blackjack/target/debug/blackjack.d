@@ -1,1 +1,0 @@
-/home/mayank/Documents/personal/learners_point/learners_point/rust_projects/blackjack/target/debug/blackjack: /home/mayank/Documents/personal/learners_point/learners_point/rust_projects/blackjack/src/main.rs
