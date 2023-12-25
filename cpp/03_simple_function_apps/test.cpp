@@ -31,8 +31,10 @@ int main() {
     chk = 'H';
     printf("%c\n", chk);
 
-    char var[5] = "Hello";
+    char var[] = "Hello";
+    int lenVar = sizeof(var);
     printf("%c\n", var[4]);
+    printf("%d\n", lenVar);
 
     return 0;
 
